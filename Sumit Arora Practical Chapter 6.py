@@ -1,0 +1,35 @@
+print(6*3)
+print(3**3)
+print(6+2*4)
+print((6+2)*4)
+print(5-3-3)
+k=5-(3-3)
+print(k)
+print(9.0**0.5)
+print((5+3.1)*5)
+S=5.0-(3-3.0)
+print(S)
+
+x=12.0/4
+print(x)
+print(7--7--7)
+print(8/6)
+a=8%3
+print(a)
+print(a)
+print(3**2**0)
+print((3**2)**0)
+print(a+5)
+print(3.0*0.5)
+print(9.0%3)
+print(-9.0%4)
+print(6.2%4)
+print(2<5)
+print(3<5 and 5<3)
+print(4<3 or 6>7)
+print(3<=3)
+print(4!=5)
+print(4!)
+
+
+
